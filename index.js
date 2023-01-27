@@ -4,7 +4,7 @@ module.exports = {
 	],
 	production: [
 		'last 3 version',
-		'>=0.25%',
+		'>=0.5%',
 		'not dead',
 	],
 	modern: [
