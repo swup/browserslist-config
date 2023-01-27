@@ -1,6 +1,6 @@
 {
   "name": "@swup/browserslist-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared browserslist config for swup and plugins",
   "main": "index.js",
   "scripts": {
